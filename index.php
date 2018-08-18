@@ -6,6 +6,6 @@
         <meta charset="UTF-8">
     </head>
     <body>
-        <h1>Hola Mundo!</h1>
+        <h1>Soy un index en DEV</h1>
     </body>
 </html>
